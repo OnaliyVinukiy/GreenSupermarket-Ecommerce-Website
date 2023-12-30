@@ -1,0 +1,140 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+* {
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	border: none;
+	text-decoration: none;
+	text-transform: capitalize;
+	transition: .2s linear;
+}
+
+
+.container3 {
+	/*    background:linear-gradient(45deg, blueviolet, lightgreen);*/
+	/*    padding:15px 9%;*/
+	/*    padding-bottom: 100px;*/
+}
+
+.container3 .heading3 {
+	text-align: center;
+	padding-bottom: 15px;
+	color: #fff;
+	text-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+	font-size: 50px;
+}
+
+.container3 .box-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+	/*    gap:15px;*/
+	gap: 2px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+	/**/
+}
+
+.container3 .box-container .box {
+	/*    box-shadow: 0 5px 10px rgba(0,0,0,.2);*/
+	border-radius: 5px;
+	background: #fff;
+	text-align: center;
+	padding: 30px 40px;
+}
+
+.container3 .box-container .box img {
+	height: 80px;
+}
+
+.container3 .box-container .box h3 {
+	color: #444;
+	font-size: 26px;
+	padding: 10px 0;
+}
+
+.container3 .box-container .box p {
+	color: #777;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+.container3 .box-container .box .btn {
+	margin-top: 10px;
+	display: inline-block;
+	background: #333;
+	color: #fff;
+	font-size: 17px;
+	border-radius: 5px;
+	padding: 8px 25px;
+}
+
+.container3 .box-container .box .btn:hover {
+	letter-spacing: 1px;
+}
+
+.container3 .box-container .box:hover {
+	box-shadow: 0 10px 15px rgba(0, 0, 0, .3);
+	transform: scale(1.03);
+}
+
+@media (max-width:768px) {
+	.container3 {
+		padding: 20px;
+	}
+}
+
+/* my */
+
+.carddes {
+	padding: 15px 9%;
+	padding-bottom: 100px;
+}
+
+div .box .box1 {
+	display: flex;
+	align-items: flex-start;
+	justify-content: right;
+	text-align: right;
+}
+
+/*div .box h3{*/
+/*	font-size: 50px;*/
+/*}*/
+div .box .box1 span {
+	font-size: 14px;
+	text-align: right;
+	display: flex;
+	right: 20px;
+}
+
+div .box .imgbox {
+	display: flex;
+	align-items: flex-left;
+	justify-content: bottom;
+	left: 200px;
+	width: 40px;
+	max-height: 55px;
+
+}
+
+div .box .box3 {
+	position: relative;
+	float: right;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+div .box .box3 span{
+	font-size: 14px;
+	
+}
+
+/*.box4 a {*/
+/*	padding-bottom: 40px;*/
+/*}*/
+
+.ts {
+	font-size: 14px;
+}

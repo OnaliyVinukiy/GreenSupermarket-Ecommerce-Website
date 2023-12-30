@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style type="text/css">
+        table { border: 0; }
+        table td { padding: 10px; }
+    </style>
+</head>
+<body align=center>
+
+<div align="center">
+    <h1>Check Out</h1>
+    <br/>
+    <form action="authorize_payment" method="post">
+        <table>
+            <tr>
+                <td>Order ID:</td>
+                <td><input type="text" name="orderId" value="YourOrderID" /></td>
+            </tr>
+            <tr>
+                <td>Product ID:</td>
+                <td><input type="text" name="productId" value="YourProductID" /></td>
+            </tr>
+            <tr>
+                <td>Product/Service:</td>
+                <td><input type="text" name="prodName" value="Next iPhone" /></td>
+            </tr>
+            <tr>
+                <td>Quantity:</td>
+                <td><input type="text" name="qty" value="1" /></td>
+            </tr>
+            <tr>
+                <td>Sub Total:</td>
+                <td><input type="text" name="amount" value="100" /></td>
+            </tr>
+            <tr>
+                <td>Shipping:</td>
+                <td><input type="text" name="shipped" value="1" /></td>
+            </tr>
+            <tr>
+                <td>Time:</td>
+                <td><input type="text" name="time" value="2023-01-01 00:00:00" /></td>
+            </tr>
+            <tr>
+                <td>Product Image:</td>
+                <td><input type="text" name="prodImage" value="path/to/image.jpg" /></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Checkout" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+</body>
+</html>
