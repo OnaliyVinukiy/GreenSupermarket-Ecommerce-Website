@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jakarta-servlet-api-41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../jakarta-servlet-api-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

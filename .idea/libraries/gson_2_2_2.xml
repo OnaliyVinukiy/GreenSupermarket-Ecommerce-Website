@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="gson-2.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gson-2.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/j2ee.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-api-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

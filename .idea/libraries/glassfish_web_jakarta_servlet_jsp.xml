@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="glassfish.web.jakarta.servlet.jsp" type="repository">
+    <properties maven-id="org.glassfish.web:jakarta.servlet.jsp:2.3.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/web/jakarta.servlet.jsp/2.3.5/jakarta.servlet.jsp-2.3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jakarta.el/5.0.0-M1/jakarta.el-5.0.0-M1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jsp/jakarta.servlet.jsp-api/2.3.5/jakarta.servlet.jsp-api-2.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

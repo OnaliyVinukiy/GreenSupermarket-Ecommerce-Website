@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jakarta.servlet.jsp.jstl.api" type="repository">
+    <properties maven-id="jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
